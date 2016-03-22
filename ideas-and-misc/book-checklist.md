@@ -1,17 +1,17 @@
-In here you can list steps to accomplish your goals.
+# Books to Read
 
-Here's an example:
+- [ ] [The Three Bodies by Liu, Cixin ]()
+- [ ] [Eloquent Javascript](http://eloquentjavascript.net/)
+- [ ] [Vagabonding by Rolf Potts]()
+- [ ] [Getting Real by Jason Fried]()
+- [ ] [The Art of Learning: An Inner Journey to Optimal Performance by Joshua Waitzkin]()
+- [ ] [The Obstacle Is The Way by Ryan Holiday]()
+- [ ] [We Learn Nothing by Tim Kreider]()
+- [ ] [Letters from a Stoic by Lucius Annaus Seneca]()
 
-If my goal was to create a dog-themed SVG animation a day, I could list out different animation ideas:
-
-1. Dog jumping over hoop into pool
-2. Dog floating on the moon
-3. Dog in glasses, reading book
-etc..
-
-If my goal was to film more videocasts, this could be used for topics
-
-Nov. 2: Mario Kart over the ages
-Nov. 9: Why Princess Peach lied
-Nov. 16: ?
-Nov. 25: Interview with Luigi
+#Cocktails and Whiskey Books to Read
+- [ ] [Bourbon Strange]()
+- [ ] [Bitters by Brad Thomas Parsons]()
+- [ ] [Works Atlas of Whiskey by Dave Broom]()
+- [ ] [Jim Murray’s Whisky Bible 2015]()
+- [ ] [American Whiskey, Bourbon & Rye: A Guide to the Nation’s Favorite Spirit by Clay Risen]

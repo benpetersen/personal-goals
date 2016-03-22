@@ -23,12 +23,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Post blog post about Agile
 - [X] Learn about Git workflows
 - [ ] Migrate SVN to Git
+- [ ] Document Step-by-step tools and merging
 - [ ] Go Snowshowing in Vail, Colorado!
 
 ### Things I'll Do in the Future:
 - [ ] Read a book
 - [ ] Help migrate F2 Framework from Grunt to npm
-- [ ] Present ReactJS to company devs (60+ people)
+- [X] Present ReactJS to company devs (20 people)
+- [ ] Present ReactJS to company devs (20 people, 2nd time, different group)
 - [ ] Move blog from Jekkyl to static site
 - [ ] Submit a proposal for the importance of being active as a developer
 - [ ] Build a project using ES6 best practices

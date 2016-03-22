@@ -1,17 +1,24 @@
-In here you can list steps to accomplish your goals.
+Blog Ideas and Steps to complete
 
-Here's an example:
+##Important of Agile Teams
 
-If my goal was to create a dog-themed SVG animation a day, I could list out different animation ideas:
+1. Process of Sprint POC (Sprint commit emails, Run release on release day, Start demo check-in)
+2. Responsibility is rotated amongst Developers on team, always a different POC and Backup POC.
+3. Why is this awesome? (Share responsiblity, team work, and you get to do it! Many teams, team leads take this responsibility and don't share)
 
-1. Dog jumping over hoop into pool
-2. Dog floating on the moon
-3. Dog in glasses, reading book
-etc..
 
-If my goal was to film more videocasts, this could be used for topics
 
-Nov. 2: Mario Kart over the ages
-Nov. 9: Why Princess Peach lied
-Nov. 16: ?
-Nov. 25: Interview with Luigi
+Dates and Goals to write this topic
+
+March 24: Document Sprint POC Process
+April 1: Compare with other processes (Good? Bad? Ugly?)
+
+
+
+
+##Advanced C# Topics every junior developer must know to work for a large company or Organization
+1. Model constructor
+2. Controller routing
+
+Dates and Goals to write this topic
+??
