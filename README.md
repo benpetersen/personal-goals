@@ -9,8 +9,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. Contribute to Open Source
 2. Write more blog posts
 3. Use team members
-4. Get better at _______
-5. Learn about _______
+4. Get better at Angular
+5. Learn about Unit Testing best practices
 6. Be kind and make people smile
 
 # April 1, 2016
@@ -19,21 +19,24 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 - [ ] Level Up With React: React Router
-- [ ] Watch 2 videos from my content list about Git/Agile
-- [ ] Effectively use my time - Shooting for 4 stories next sprint
+- [ ] Watch 2 videos from my content list about Angular
+- [X] Effectively use my time - Shooting for 4 stories next sprint
 - [ ] Spend more mornings learning Redux and ES6
-- [ ] Go to bed by 10pm, no excuses
-- [ ] Encourage wife about going back to school or job
+- [X] Go to bed by 10pm, no excuses
+- [X] Encourage wife about going back to school or job
 
 ### Things I'll Do in the Future:
-- [ ] Read a book
-- [ ] Help migrate F2 Framework from Grunt to npm
-- [ ] Move blog from Jekkyl to static site
+- [ ] Continue to encourage wife. Making mistakes are okay. Everyone does it.
+- [X] Complete list of Objectives
+- [X] Finish an Algorithms online article
+- [ ] Watch Angular courses
+- [ ] Move blog from Jekkyl-Now to Jekkyl
 - [ ] Submit a proposal for the importance of being active as a developer
 - [ ] Build a project using ES6 best practices
-- [ ] Finish an Algorithms online course
+- [ ] Write 20 Unit Tests for our Format library
 
-### Backlog: Side Projects :)
+
+### Backlog: Side Projectsa and Always be Learning
 - [ ] Work on [React/Redux side project](https://github.com/benpetersen/React-Stock-Quotes)
 
 ### Backlog: Side Projects & Other Ideas
