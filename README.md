@@ -15,29 +15,26 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 # April 1, 2016
 
-### This Week's Goal: Be Awesome.
+### This Week's Goal: Be more productive!
 
 ## Things I'll Do This Week:
 - [ ] Level Up With React: React Router
-- [ ] Watch 2 videos from my content list about Angular
-- [X] Effectively use my time - Shooting for 4 stories next sprint
-- [ ] Spend more mornings learning Redux and ES6
-- [X] Go to bed by 10pm, no excuses
-- [X] Encourage wife about going back to school or job
-
-### Things I'll Do in the Future:
-- [ ] Continue to encourage wife. Making mistakes are okay. Everyone does it.
-- [X] Complete list of Objectives
-- [X] Finish an Algorithms online article
-- [ ] Watch Angular courses
-- [ ] Move blog from Jekkyl-Now to Jekkyl
-- [ ] Submit a proposal for the importance of being active as a developer
-- [ ] Build a project using ES6 best practices
+- [X] Watch 2 videos from my content list about Angular
+- [ ] Read Todd Motto's Style Guide
+- [ ] Spend more mornings learning
 - [ ] Write 20 Unit Tests for our Format library
 
 
+### Things I'll Do in the Future:
+- [ ] Continue to encourage wife. Making mistakes are okay. Everyone does it.
+- [ ] Build a simple Quote App
+- [ ] Move blog from Jekkyl-Now to Harp 
+- [ ] Submit a proposal for the importance of 
+- [ ] Build a project using ES6 best practices
+
+
 ### Backlog: Side Projectsa and Always be Learning
-- [ ] Work on [React/Redux side project](https://github.com/benpetersen/React-Stock-Quotes)
+- [ ] Work on [Angular side project]()
 
 ### Backlog: Side Projects & Other Ideas
 [Blog Ideas](https://github.com/benpetersen/personal-goals/tree/master/ideas-and-misc/blog-ideas.md)
