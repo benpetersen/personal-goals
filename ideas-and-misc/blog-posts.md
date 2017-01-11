@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # My Blog Posts to Read
 
 ### Agile, Productivity, and Personal Goals
@@ -18,6 +18,4 @@
 - [ ] [Importance of being on an Agile-ish Development Team](https://www.linkedin.com/pulse/importance-being-agile-ish-team-ben-petersen?trk=prof-post)
 
 
-### React.js/C# 
-- [ ] [Developing Software with ReactJS, What I have learned](https://www.linkedin.com/pulse/reactjs-what-i-have-learned-ben-petersen?trk=prof-post)
->>>>>>> 21ec10e003fd017b56c3598cf05e3cd7bea8ea1a
+

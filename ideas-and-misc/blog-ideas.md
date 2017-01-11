@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Blog Ideas and Steps to complete
 
 ##Finish writing post on Advanced C# Topics every junior developer must know to work for a large company or Organization
@@ -49,11 +48,3 @@ May 3: Fill out outline, add meat.
 May 4: Proof Read! (Stuggled with this on my first post)
 
 
-
-##Advanced C# Topics every junior developer must know to work for a large company or Organization
-1. Model constructor
-2. Controller routing
-
-Dates and Goals to write this topic
-??
->>>>>>> 21ec10e003fd017b56c3598cf05e3cd7bea8ea1a
