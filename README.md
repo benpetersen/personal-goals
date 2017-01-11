@@ -1,3 +1,4 @@
+=============
 Personal Goals
 ==============
 
@@ -30,7 +31,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [X] Move blog from Jekkyl-Now to Harp 
 - [ ] Find a conference and submit a proposal for the importance of agile, tight knit team
 - [ ] Build a project using Angular2 
-
+- [ ] Continue to encourage wife. We need her income to live comfortably
+- [ ] Write an Angular app with Accessibility baked into components
+- [ ] Go on a trail run
 
 ### Backlog: Side Projectsa and Always be Learning
 - [ ] Work on [Angular side project]()
