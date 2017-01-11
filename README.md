@@ -8,29 +8,29 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 # Overarching Goals
 1. Contribute to Open Source
 2. Write more blog posts
-3. Use team members to drive performance
-4. Learn and Teach Angular to Team
+3. Use team members
+4. Get better at Angular
 5. Learn about Unit Testing best practices
 6. Be kind and make people smile
 
-# April 1, 2016
+# April 8, 2016
 
-### This Week's Goal: Be more productive!
+### This Week's Goal: Focus on what's important and sleep more!
 
 ## Things I'll Do This Week:
-- [ ] Update blog at home (have changes there that I should merge)
-- [ ] Write: powerpoint for team to learn Angular
-- [ ] Write: Angular 1 vs Angular 2 syntax
-- [ ] Write: Angular 2 Best Practices and things to avoid
-- [ ] Home stuff like wifes birthday present
+- [ ] Level Up With React: React Router
+
+- [ ] Read Todd Motto's Style Guide
+- [ ] Spend more mornings learning
+- [ ] Write 20 Unit Tests for our Format library
 
 
 ### Things I'll Do in the Future:
-- [ ] Continue to encourage wife. We need her income to live comfortably
-- [ ] Update Deborah K's ng app to a simple Quote app
+- [ ] Continue to encourage wife. Making mistakes are okay. Everyone does it.
+- [ ] Build a simple Quote App
 - [ ] Move blog from Jekkyl-Now to Harp 
-- [ ] Write an Angular app with Accessibility baked into components
-- [ ] Go on a trail run
+- [ ] Submit a proposal for the importance of 
+- [ ] Build a project using ES6 best practices
 
 
 ### Backlog: Side Projectsa and Always be Learning
